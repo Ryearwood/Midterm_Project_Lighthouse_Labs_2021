@@ -1,2 +1,5 @@
 target/
 .ipynb_checkpoints/
+Data/Sample_Dataset
+Data/Feature_data_sample.csv
+flights_test_2020.zip
